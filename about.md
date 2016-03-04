@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My name is Rito, and go by the handle jethroFloyd. 
+You are welcome to check my homepage at www.ritobrotom.com or contact me at
+[ritobroto@ritobrotom.com](mailto:ritobroto[at]ritobrotom[dot]com)
