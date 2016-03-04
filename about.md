@@ -7,5 +7,3 @@ permalink: /about/
 My name is Rito, and go by the handle jethroFloyd. 
 You are welcome to check my [homepage](www.ritobrotom.com) or contact me at
 [ritobroto@ritobrotom.com](mailto:ritobroto[at]ritobrotom[dot]com)
-
-[<img src="{{ site.baseurl }}/images/404.jpg" style="width: 400px;"/>]({{ site.baseurl }}/)
