@@ -17,3 +17,5 @@ Unfortunately, this trend seems to restrict itself only to political ideas that 
  On similar lines, environmental scientists should hardly be just scientists any more: their involvement in shaping public policy is inevitable, and the obvious way forward. In the age of information being the new currency (quite literally so, with the advent of cryptocurrencies), cryptographers are not math and prime-number wielding wizards any more. They are guardians of privacy, rights and freedom. 
  
  In the next few blog posts, I plan to iterate over ideas and experiences around this; but the theme should be explicitly clear from this introductory post: science and politics must walk together; otherwise it'd be a great shame.
+ 
+**New Delhi, March 2016**
